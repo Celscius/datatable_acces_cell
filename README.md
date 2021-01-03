@@ -1,2 +1,2 @@
 # datatable_acces_cell
-datatable
+read cell data,row number and column number on click
